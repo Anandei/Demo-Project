@@ -78,6 +78,6 @@ spec:
             requests:
               memory: 0.25Gi
               cpu: 0.5
-            limits:
+            limits:jdjhasdvjasvasdbajsdhjadjhasbcygyuavcjhvuyAXbhb
               memory: 0.25Gi 
               cpu: 0.5
